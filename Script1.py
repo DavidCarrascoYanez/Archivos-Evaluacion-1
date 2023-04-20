@@ -1,0 +1,5 @@
+nombre = input("Ingrese su nombre:")
+apellido = input("Ingrese su apellido:")
+asignatura = input("¿Cuál es su asignatura?:")
+sede = input("Ingrese la sede en la que estudia:")
+print("hola ", nombre, apellido, " tu asignatura es: ", asignatura, "y tu sede es: ", sede)
